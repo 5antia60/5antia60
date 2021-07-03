@@ -21,7 +21,7 @@
 	<img height="50" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5antia60&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5antia60&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ----
