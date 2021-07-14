@@ -12,13 +12,12 @@
 
 - 💻 Languages and technologies:
 <p float="left">
-	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-	<img height="50" src="https://1.bp.blogspot.com/-RV-HrvfYVGg/XThtxkUd0JI/AAAAAAAAVuA/lbH0GXvHbVAS_QhWnB3Cr6C8Fr5Q795LwCLcBGAs/s1600/c%252B%252B.jpg">
-	<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-	<img height="50" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
+	<img height="50" style="pointer-events: none" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+	<img height="50" style="pointer-events: none" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+	<img height="50" style="pointer-events: none" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+	<img height="50" style="pointer-events: none" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+	<img height="50" style="pointer-events: none" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png">
+	<img height="50" style="pointer-events: none" src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg">
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5antia60&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,6 +35,9 @@
 </a>
 <a target="_blank" href="https://steamcommunity.com/id/5antiag0">
   <img height="35" src="https://img.icons8.com/metro/452/steam.png">
+</a>
+<a target="_blank" href="https://pt.stackoverflow.com/users/246843/5antia60">
+  <img height="35" src="https://basedosdados.org/uploads/group/2020-07-08-180036.693735stackoverflow-512.png">
 </a>
 </br>
 
