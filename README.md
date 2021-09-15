@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a target="_blank" href="https://liga.facens.br/">- 🔭 Working on LIGA Facens;</a>
+- 🔭 Working on LIGA Facens;
 - 🌱 Currently learning:
 
 <p float="left">
