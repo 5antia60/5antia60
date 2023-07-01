@@ -2,9 +2,6 @@
 
 - 🔭 Working on LIGA Facens;
 - 🌱 Working from home;
-
-----
-
 - 💻 Languages and technologies:
 
 <p float="left">
