@@ -1,38 +1,45 @@
-### Hi there 👋
+### Hi there, I'm Santiago 👋
 
-- 🔭 Working on LIGA Facens;
-- 🌱 Working from home;
-- 💻 Languages and technologies:
 
-<p float="left">
-	<img height="50" style="pointer-events: none" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-	<img height="50" style="pointer-events: none" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-    <img height="50" style="pointer-events: none" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-	<img height="50" style="pointer-events: none" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-    <img height="50" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-	<img height="50" style="pointer-events: none" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png">
-	<img height="50" style="pointer-events: none" src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg">
-    <img height="50" style="pointer-events: none" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
-    <img height="50" src="https://styled-components.com/logo.png">    
-    <img height="50" style="pointer-events: none" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+Hi there! I am a passionate software developer with a degree in Computer Engineering. Currently,
+I work as a fullstack developer, meaning I handle both frontend and backend aspects of applications.
+
+With a strong engineering background and a keen interest in new technologies, I love creating efficient
+and innovative solutions. My experience ranges from designing intuitive user interfaces to implementing
+robust and scalable systems.
+
+- 🛠 &nbsp; Currently working on LIGA Facens;
+- 💻 &nbsp; Working with JS, TS, NestJs, etc;
+- 🧑‍💻 &nbsp; Coding from home;
+- 📫 &nbsp; Reach me out: <a href="mailto:santiago.delgado2001@outlook.com?">santiago.delgado2001@outlook.com</a>;
+
+### Languages and Tools:
+<p >
+  <code><img title="C#" height="25" src="assets/images/cSharp.svg"></code>
+  <code><img title="Javascript" height="25" src="assets/images/javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="assets/images/typescript.png"></code>
+  <code><img title="HTML5" height="25" src="assets/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="assets/images/css.svg"></code>
+  <code><img title="SASS" height="25" src="assets/images/sass.svg"></code>
+  <code><img title="Angular" height="25" src="assets/images/angular.png"></code>
+  <code><img title="React" height="25" src="assets/images/react-original.svg"></code>
+  <code><img title="Ionic Framework" height="25" src="assets/images/ionicFramework.png"></code>
+  <code><img title="Node Js" height="25" src="assets/images/nodeJs.png"></code>
+  <code><img title="Nest Js" height="25" src="assets/images/nestJs.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="assets/images/postgresql.svg"></code>
+  <code><img title="Docker" height="25" src="assets/images/docker.png"></code>
+  <code><img title="Java" height="25" src="assets/images/java-original.svg"></code>
+  <code><img title="Git" height="25" src="assets/images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="assets/images/github.svg"></code>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5antia60&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Connect With Me
+<h5>
+  <code><a href="https://www.linkedin.com/in/5antiag0/" title="LinkedIn Profile"><img width="22" src="assets/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://stackoverflow.com/users/246843/5antia60" title="Stack Overflow Profile"><img width="22" src="assets/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/ogsantiag0/" title="Instagram Profile"><img width="22" src="assets/images/instagram.svg"> Instagram</a></code>
+</h5>
 
-----
+<br>
 
-- 📫 Social media:
-
-<a target="_blank" href="https://www.linkedin.com/in/5antiag0/">
-  <img height="35" src="https://cdn-icons-png.flaticon.com/512/145/145807.png">
-</a>
-<a target="_blank" href="https://www.instagram.com/ogsantiag0/">
-  <img height="35" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">
-</a>
-<a target="_blank" href="https://pt.stackoverflow.com/users/246843/5antia60">
-  <img height="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png">
-</a>
-</br>
-
-----
+<img style="border-radius: 1rem" src="assets/gifs/hi_there_goku.gif">
