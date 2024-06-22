@@ -35,6 +35,7 @@ robust and scalable systems.
 
 ### Connect With Me
 <h5>
+  <code><a href="https://ogsantiago-dev.netlify.app/" title="Personal Website"><img width="22" src="assets/images/personal_website.png"> Personal Website</a></code>
   <code><a href="https://www.linkedin.com/in/5antiag0/" title="LinkedIn Profile"><img width="22" src="assets/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/16440914/santiago-delgado" title="Stack Overflow Profile"><img width="22" src="assets/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/ogsantiag0/" title="Instagram Profile"><img width="22" src="assets/images/instagram.svg"> Instagram</a></code>
