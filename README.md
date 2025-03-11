@@ -8,7 +8,7 @@ With a strong engineering background and a keen interest in new technologies, I 
 and innovative solutions. My experience ranges from designing intuitive user interfaces to implementing
 robust and scalable systems.
 
-- 🛠 &nbsp; Currently working on LIGA Facens;
+- 🛠 &nbsp; Currently working on Lenovo;
 - 💻 &nbsp; Working with JS, TS, NestJs, etc;
 - 🧑‍💻 &nbsp; Coding from home;
 - 📫 &nbsp; Reach me out: <a href="mailto:santiago.delgado2001@outlook.com?">santiago.delgado2001@outlook.com</a>;
