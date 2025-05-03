@@ -1,16 +1,14 @@
 ### Hi there, I'm Santiago 👋
 
 
-Hi there! I am a passionate software developer with a degree in Computer Engineering. Currently,
-I work as a fullstack developer, meaning I handle both frontend and backend aspects of applications.
+Hello! I'm a passionate software developer with a degree in Computer Engineering. Currently, I work as a front-end developer, but I've always enjoyed back-end related tasks and challenges...
 
 With a strong engineering background and a keen interest in new technologies, I love creating efficient
 and innovative solutions. My experience ranges from designing intuitive user interfaces to implementing
 robust and scalable systems.
 
 - 🛠 &nbsp; Currently working on Lenovo;
-- 💻 &nbsp; Working with JS, TS, NestJs, etc;
-- 🧑‍💻 &nbsp; Coding from home;
+- 💻 &nbsp; Working with JS, TS, Next.js, etc;
 - 📫 &nbsp; Reach me out: <a href="mailto:santiago.delgado2001@outlook.com?">santiago.delgado2001@outlook.com</a>;
 
 ### Languages and Tools:
@@ -23,9 +21,11 @@ robust and scalable systems.
   <code><img title="SASS" height="25" src="assets/images/sass.svg"></code>
   <code><img title="Angular" height="25" src="assets/images/angular.png"></code>
   <code><img title="React" height="25" src="assets/images/react-original.svg"></code>
+  <code><img title="Next.js" height="25" src="assets/images/nextjs.png"></code>
+  <code><img style="max-width: 2rem; height: auto" title="Tailwindcss" height="25" src="assets/images/tailwindcss_icon.png"></code>
   <code><img title="Ionic Framework" height="25" src="assets/images/ionicFramework.png"></code>
-  <code><img title="Node Js" height="25" src="assets/images/nodeJs.png"></code>
-  <code><img title="Nest Js" height="25" src="assets/images/nestJs.svg"></code>
+  <code><img title="Node.js" height="25" src="assets/images/nodeJs.png"></code>
+  <code><img title="Nest.js" height="25" src="assets/images/nestJs.svg"></code>
   <code><img title="PostgreSQL" height="25" src="assets/images/postgresql.svg"></code>
   <code><img title="Docker" height="25" src="assets/images/docker.png"></code>
   <code><img title="Java" height="25" src="assets/images/java-original.svg"></code>
