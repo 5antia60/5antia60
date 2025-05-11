@@ -20,13 +20,13 @@ robust and scalable systems.
   <code><img title="Angular" height="25" src="assets/images/angular.png"></code>
   <code><img title="React" height="25" src="assets/images/react-original.svg"></code>
   <code><img title="Next.js" height="25" src="assets/images/nextjs.png"></code>
-  <code><img style="max-width: 2rem; height: auto" title="Tailwindcss" height="25" src="assets/images/tailwindcss_icon.png"></code>
+  <code><img style="max-width: 2rem; height: auto" title="Tailwindcss" height="25" src="https://cdn.creazilla.com/icons/3254431/tailwindcss-icon-icon-lg.png"></code>
   <code><img title="Ionic Framework" height="25" src="assets/images/ionicFramework.png"></code>
-  <code><img title="Node.js" height="25" src="assets/images/nodeJs.png"></code>
+  <code><img title="Node.js" height="25" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703155483443/e42a7be2-890a-4bd2-accf-306e53ccebbd.png"></code>
   <code><img title="Nest.js" height="25" src="assets/images/nestJs.svg"></code>
   <code><img title="PostgreSQL" height="25" src="assets/images/postgresql.svg"></code>
   <code><img title="Docker" height="25" src="assets/images/docker.png"></code>
-  <code><img title="Java" height="25" src="assets/images/java-original.svg"></code>
+  <code><img title="Java" height="25" src="https://sc.filehippo.net/images/t_app-icon-l/p/4dd9406e-96d3-11e6-aa77-00163ec9f5fa/3927985343/java-development-kit-64-icon.png"></code>
   <code><img title="Git" height="25" src="assets/images/git-original.svg"></code>
 </p>
 
