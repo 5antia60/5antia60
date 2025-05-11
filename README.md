@@ -12,26 +12,27 @@ robust and scalable systems.
 - 📫 &nbsp; Reach me out: <a href="mailto:santiago.delgado2001@outlook.com?">santiago.delgado2001@outlook.com</a>;
 
 ### Languages and Tools:
-<p >
-  <code><img title="C#" alt="C#" height="25" src="assets/images/cSharp.svg"></code>
-  <code><img title="Javascript" height="25" src="assets/images/javascript.svg"></code>
-  <code><img title="Typescript" height="25" src="assets/images/typescript.png"></code>
-  <code><img title="HTML5" height="25" src="assets/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="assets/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="assets/images/sass.svg"></code>
-  <code><img title="Angular" height="25" src="assets/images/angular.png"></code>
-  <code><img title="React" height="25" src="assets/images/react-original.svg"></code>
-  <code><img title="Next.js" height="25" src="assets/images/nextjs.png"></code>
-  <code><img style="max-width: 2rem; height: auto" title="Tailwindcss" height="25" src="assets/images/tailwindcss_icon.png"></code>
-  <code><img title="Ionic Framework" height="25" src="assets/images/ionicFramework.png"></code>
-  <code><img title="Node.js" height="25" src="assets/images/nodeJs.png"></code>
-  <code><img title="Nest.js" height="25" src="assets/images/nestJs.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="assets/images/postgresql.svg"></code>
-  <code><img title="Docker" height="25" src="assets/images/docker.png"></code>
-  <code><img title="Java" height="25" src="assets/images/java-original.svg"></code>
-  <code><img title="Git" height="25" src="assets/images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="assets/images/github.svg"></code>
+<p style="display: flex; flex-wrap: wrap; gap: 1rem;">
+  <img title="C#" alt="C#" height="25" src="assets/images/cSharp.svg">
+  <img title="JavaScript" alt="JavaScript" height="25" src="assets/images/javascript.svg">
+  <img title="TypeScript" alt="TypeScript" height="25" src="assets/images/typescript.png">
+  <img title="HTML5" alt="HTML5" height="25" src="assets/images/html5.svg">
+  <img title="CSS" alt="CSS" height="25" src="assets/images/css.svg">
+  <img title="SASS" alt="SASS" height="25" src="assets/images/sass.svg">
+  <img title="Angular" alt="Angular" height="25" src="assets/images/angular.png">
+  <img title="React" alt="React" height="25" src="assets/images/react-original.svg">
+  <img title="Next.js" alt="Next.js" height="25" src="assets/images/nextjs.png">
+  <img title="Tailwind CSS" alt="Tailwind CSS" height="25" src="assets/images/tailwindcss_icon.png">
+  <img title="Ionic Framework" alt="Ionic Framework" height="25" src="assets/images/ionicFramework.png">
+  <img title="Node.js" alt="Node.js" height="25" src="assets/images/nodeJs.png">
+  <img title="Nest.js" alt="Nest.js" height="25" src="assets/images/nestJs.svg">
+  <img title="PostgreSQL" alt="PostgreSQL" height="25" src="assets/images/postgresql.svg">
+  <img title="Docker" alt="Docker" height="25" src="assets/images/docker.png">
+  <img title="Java" alt="Java" height="25" src="assets/images/java-original.svg">
+  <img title="Git" alt="Git" height="25" src="assets/images/git-original.svg">
+  <img title="GitHub" alt="GitHub" height="25" src="assets/images/github.svg">
 </p>
+
 
 ### Connect With Me
 <h5>
