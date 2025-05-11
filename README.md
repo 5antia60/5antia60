@@ -13,7 +13,7 @@ robust and scalable systems.
 
 ### Languages and Tools:
 <p >
-  <code><img title="C#" height="25" src="assets/images/cSharp.svg"></code>
+  <code><img title="C#" alt="C#" height="25" src="assets/images/cSharp.svg"></code>
   <code><img title="Javascript" height="25" src="assets/images/javascript.svg"></code>
   <code><img title="Typescript" height="25" src="assets/images/typescript.png"></code>
   <code><img title="HTML5" height="25" src="assets/images/html5.svg"></code>
@@ -43,4 +43,4 @@ robust and scalable systems.
 
 <br>
 
-<img style="border-radius: 1rem" src="assets/gifs/hi_there_goku.gif">
+![](assets/gifs/hi_there_goku.gif)
